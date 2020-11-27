@@ -1,0 +1,3 @@
+Gunakanlah BootstrapCDN (online)
+Warna background yang digunakan adalah #333333
+Gunakan gambar dari : https://drive.google.com/open?id=1ihiy8eXYpbT5FbcE74QcA43BTd5rcC4L 
